@@ -27,7 +27,7 @@
   <img src="https://img.icons8.com/color/48/000000/python--v2.png"m0kht4r/>
  </p>
  
- ## Connect with me 🏻‍♀️:
+ ## Connect with me :eyes::
  
 [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/mokhtar-derbazi-407b2424a/)
 [![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:mokhtarderbazi@gmail.com)
