@@ -7,7 +7,7 @@
 <div align ="center">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+M0kht4r's+GitHub!;Excited+to+Share+My+Projects+Here;.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+GitHub+Page!;Excited+to+Share+My+Projects+Here;.)](https://git.io/typing-svg)
 
 </div>
 
