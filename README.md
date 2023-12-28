@@ -13,7 +13,7 @@
 
 - 🏫 From Tebessa, Algeria
 - 👩🏻‍💻 Student at Higher school of computer science and technologies  (ESTIN)
-- :bulb: Interested in CyberSecurity, Web development and Data structure
+- :bulb: Interested in CyberSecurity, Web development and Quantum Cryptography
 
 
 ## Languages and Tools 🛠:
