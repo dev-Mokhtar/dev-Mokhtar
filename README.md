@@ -13,26 +13,13 @@
 
 - 🏫 From Tebessa, Algeria
 - 👩🏻‍💻 Student at Higher school of computer science and technologies  (ESTIN)
-- :bulb: Interested in CyberSecurity, Web development and Quantum Cryptography
+- :bulb: Interested in CyberSecurity, Web development 
 
 
-## Languages and Tools 🛠:
-<p>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
-  <img src="https://img.icons8.com/office/40/000000/react.png"/>
- <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin logo" style="display:block"/>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-  <img src="https://img.icons8.com/color/48/000000/python--v2.png"m0kht4r/>
- </p>
  
  ## Connect with me :eyes::
  
 [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/mokhtar-derbazi-407b2424a/)
-[![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:mokhtarderbazi@gmail.com)
-[![Codeforces](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png)](https://codeforces.com/profile/M0kht4r)
-[![Kaggle](https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-filled-tal-revivo.png)](https://www.kaggle.com/derbazimokhtar)
 [![Instagram](https://img.icons8.com/color/48/000000/instagram-new--v2.png)](https://www.instagram.com/derbazi_mokhtar/)
 
 
